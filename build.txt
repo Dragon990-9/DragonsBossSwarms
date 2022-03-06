@@ -1,0 +1,3 @@
+displayName = Dragon's Boss Swarms
+author = Dragon990
+version = 0.1

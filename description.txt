@@ -1,0 +1,3 @@
+This mod adds several items that spawn multiple bosses at the same time. Currently, there is only pre-hardmode bosses
+
+In the future I will add hardmode bosses and hopefully modded boss support.
